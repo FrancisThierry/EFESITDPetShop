@@ -1,0 +1,14 @@
+C:\projets\TDEF\PetShop\PetShopLibrary\PetShopLibrary\bin\Debug\net7.0\PetShopLibrary.deps.json
+C:\projets\TDEF\PetShop\PetShopLibrary\PetShopLibrary\bin\Debug\net7.0\PetShopLibrary.dll
+C:\projets\TDEF\PetShop\PetShopLibrary\PetShopLibrary\bin\Debug\net7.0\PetShopLibrary.pdb
+C:\projets\TDEF\PetShop\PetShopLibrary\PetShopLibrary\obj\Debug\net7.0\PetShopLibrary.csproj.AssemblyReference.cache
+C:\projets\TDEF\PetShop\PetShopLibrary\PetShopLibrary\obj\Debug\net7.0\PetShopLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\projets\TDEF\PetShop\PetShopLibrary\PetShopLibrary\obj\Debug\net7.0\PetShopLibrary.AssemblyInfoInputs.cache
+C:\projets\TDEF\PetShop\PetShopLibrary\PetShopLibrary\obj\Debug\net7.0\PetShopLibrary.AssemblyInfo.cs
+C:\projets\TDEF\PetShop\PetShopLibrary\PetShopLibrary\obj\Debug\net7.0\PetShopLibrary.csproj.CoreCompileInputs.cache
+C:\projets\TDEF\PetShop\PetShopLibrary\PetShopLibrary\obj\Debug\net7.0\PetShopLibrary.dll
+C:\projets\TDEF\PetShop\PetShopLibrary\PetShopLibrary\obj\Debug\net7.0\refint\PetShopLibrary.dll
+C:\projets\TDEF\PetShop\PetShopLibrary\PetShopLibrary\obj\Debug\net7.0\PetShopLibrary.pdb
+C:\projets\TDEF\PetShop\PetShopLibrary\PetShopLibrary\obj\Debug\net7.0\ref\PetShopLibrary.dll
+C:\projets\TDEF\PetShop\PetShopLibrary\PetShopLibrary\bin\Debug\net7.0\PetShopLibrary.runtimeconfig.json
+C:\projets\TDEF\PetShop\PetShopLibrary\PetShopLibrary\obj\Debug\net7.0\PetShopLibrary.genruntimeconfig.cache
